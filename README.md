@@ -1,11 +1,12 @@
-## Que es NX-AudioControl?
+## What is NX-AudioControl?
 
-NX-AudioControl es un proyecto homebrew para Nintendo Switch enfocado en
-ofrecer configuraciones y herramientas relacionadas con el audio del sistema.
+NX-AudioControl is a homebrew project for Nintendo Switch focused<br>
+on providing audio-related settings and tools for the system.
 
-Actualmente funciona como un overlay basado en LibTesla, en futuro también
-incorporá un sysmodule para permitir un control más profundo del audio.
+It currently works as a LibTesla-based overlay, and in the future<br>
+it will also incorporate a sysmodule to allow for deeper control<br>
+over the audio system.
 
-No quiero darte spoilers sobre lo que hace exactamente.
-¿Por qué no le echas un vistazo por tu propia cuenta?
+I don't want to give you any spoilers about it.<br>
+Why not take a look for yourself?<br>
 https://github.com/Fh1do/NX-AudioControl/releases
