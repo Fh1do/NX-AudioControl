@@ -9,8 +9,7 @@ I don't want to give you any spoilers about it. Why don't you take a look at the
 
 ## How to install?
 
-Download the latest version from [releases](https://github.com/Fh1do/NX-AudioControl/releases), extract the file named NX-AudioControl.zip and put the atmosphere and switch folders<br>
-in the root of your microSD card.
+Download the latest version from [releases](https://github.com/Fh1do/NX-AudioControl/releases), extract the file named NX-AudioControl.zip and put the atmosphere and switch folders in the root of your microSD card.
 
 > [!IMPORTANT]
 It's necessary to restart the console to load the patches correctly.
