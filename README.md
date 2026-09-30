@@ -2,7 +2,7 @@
 
 NX-AudioControl is a homebrew project for Nintendo Switch focused on providing audio related settings.
 
-Currently, it offers only one option: master volume! It allows you to adjust the console's maximum volume from the default 100% to custom levels such as 150%, 200%, 250%, and 300%.
+Currently, it offers only one option: Master Volume! It allows you to adjust the console's maximum volume from the default 100% to custom levels such as 150%, 200%, 250%, and 300%.
 
 I don't want to give you any spoilers about it. Why don't you take a look at the [latest version](https://github.com/Fh1do/NX-AudioControl/releases)?
 
