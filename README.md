@@ -14,3 +14,7 @@ in the root of your microSD card.
 
 > [!NOTE]
 It's necessary to restart the console to load the patches correctly.
+
+## Credits
+This project was created based on averne's [MasterVolume](https://github.com/averne/MasterVolume) project.
+
