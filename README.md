@@ -1,21 +1,15 @@
 ## What is NX-AudioControl?
 
-NX-AudioControl is a homebrew project for Nintendo Switch<br>
-focused on providing audio-related settings and tools for the<br>
-system.
+NX-AudioControl is a homebrew project for Nintendo Switch focused on providing audio related settings.
 
-It currently works as a LibTesla-based overlay, and in the future<br>
-it will also incorporate a sysmodule to allow for deeper control<br>
-over the audio system.
+Currently, it offers only one option: master volume! It allows you to adjust the console's maximum volume from the default 100% to custom levels such as 150%, 200%, 250%, and 300%.
 
-I don't want to give you any spoilers about it.<br>
-Why not take a look for yourself?<br>
-https://github.com/Fh1do/NX-AudioControl/releases
+I don't want to give you any spoilers about it. Why don't you take a look at the [latest version](https://github.com/Fh1do/NX-AudioControl/releases)?
+
 
 ## How to install?
 
-Download the latest version from [RELEASE](https://github.com/Fh1do/NX-AudioControl/releases), extract the file named<br>
-NX-AudioControl.zip and put the atmosphere and switch folders<br>
+Download the latest version from [releases](https://github.com/Fh1do/NX-AudioControl/releases), extract the file named NX-AudioControl.zip and put the atmosphere and switch folders<br>
 in the root of your microSD card.
 
 > [!NOTE]
